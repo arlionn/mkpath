@@ -1,0 +1,8 @@
+
+v 1
+d Yujun Lian, Lingnan College, Sun Yat-sen University
+d 'mkpath': mk several directories within pwd
+d {browse "https://github.com/arlionn/mkpath":GitHub} website
+d
+d Distribution-Date: 2018.9.14
+f mkpath.ado

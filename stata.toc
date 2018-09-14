@@ -1,0 +1,5 @@
+v 1.0
+d Yujun Lian, Lingnan College, Sun Yat-sen University
+d 'mkpath': mk several directories within pwd
+d {browse "https://github.com/arlionn/mkpath":GitHub} website
+p mkpath
